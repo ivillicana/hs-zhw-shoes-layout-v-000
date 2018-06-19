@@ -29,6 +29,6 @@
 }
 
 .col-2 {
-  display: inline;
+  floaqt:left;
   width: 32%;
 }
