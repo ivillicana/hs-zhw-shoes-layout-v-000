@@ -22,6 +22,7 @@ html {
 }
 body {
   background-image: url(../images/handmadepaper.png);
+  height:100%
 }
 
 h2, h3 {
