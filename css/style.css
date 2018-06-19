@@ -17,7 +17,9 @@ img.verif_img {
 
 /********** Global **********/
 
-
+html {
+  height:100%;
+}
 body {
   background-image: url(../images/handmadepaper.png);
   background-repeat: repeat-y;
