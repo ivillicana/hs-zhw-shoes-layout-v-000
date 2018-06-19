@@ -20,6 +20,7 @@ img.verif_img {
 body {
   background: url(../images/handmadepaper.png);
   background-repeat: repeat-y;
+  background-size: cover;
 }
 
 h2, h3 {
