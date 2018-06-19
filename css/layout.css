@@ -33,7 +33,7 @@
   width: 32%;
 }
 [class*="col-"] {
-  margin: 2%, 0%, 0%, 2%;
+  margin: 2% 0% 0% 2%;
 }
 .first {
   margin-left: 0%;
