@@ -21,6 +21,7 @@ body {
   background: url(../images/handmadepaper.png);
   background-repeat: repeat-y;
   background-size: cover;
+  height: 100%;
 }
 
 h2, h3 {
