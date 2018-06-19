@@ -22,10 +22,7 @@ html {
 }
 body {
   background-image: url(../images/handmadepaper.png);
-  background-repeat: repeat-y;
-  background-size: cover;
-  background-position: center;
-  height: 100%;
+
 }
 
 h2, h3 {
